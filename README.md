@@ -1,2 +1,2 @@
 # zeekmqttalertsubscribeall
-## Zeek script to alert on malicious MQTT IOT traffic
+## Zeek/Bro script that alerts on malicious MQTT "Subscribe All" traffic.
